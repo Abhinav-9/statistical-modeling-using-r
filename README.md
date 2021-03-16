@@ -1,2 +1,2 @@
 # statistical-modeling-using-r
-statistical modeling using r
+CHEEK OUT THE PDF
